@@ -1,0 +1,10 @@
+C:\Users\juand\source\repos\HerenciaEjercicio1\HerenciaEjercicio1\bin\Debug\HerenciaEjercicio1.exe.config
+C:\Users\juand\source\repos\HerenciaEjercicio1\HerenciaEjercicio1\bin\Debug\HerenciaEjercicio1.exe
+C:\Users\juand\source\repos\HerenciaEjercicio1\HerenciaEjercicio1\bin\Debug\HerenciaEjercicio1.pdb
+C:\Users\juand\source\repos\HerenciaEjercicio1\HerenciaEjercicio1\obj\Debug\HerenciaEjercicio1.csproj.AssemblyReference.cache
+C:\Users\juand\source\repos\HerenciaEjercicio1\HerenciaEjercicio1\obj\Debug\HerenciaEjercicio1.Properties.Resources.resources
+C:\Users\juand\source\repos\HerenciaEjercicio1\HerenciaEjercicio1\obj\Debug\HerenciaEjercicio1.csproj.GenerateResource.cache
+C:\Users\juand\source\repos\HerenciaEjercicio1\HerenciaEjercicio1\obj\Debug\HerenciaEjercicio1.csproj.CoreCompileInputs.cache
+C:\Users\juand\source\repos\HerenciaEjercicio1\HerenciaEjercicio1\obj\Debug\HerenciaEjercicio1.exe
+C:\Users\juand\source\repos\HerenciaEjercicio1\HerenciaEjercicio1\obj\Debug\HerenciaEjercicio1.pdb
+C:\Users\juand\source\repos\HerenciaEjercicio1\HerenciaEjercicio1\obj\Debug\HerenciaEjercicio1.FormularioJugador.resources
